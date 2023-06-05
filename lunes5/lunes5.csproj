@@ -118,6 +118,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ventana3.resx">
+      <DependentUpon>ventana3.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ventana4.resx">
       <DependentUpon>ventana4.cs</DependentUpon>
     </EmbeddedResource>
