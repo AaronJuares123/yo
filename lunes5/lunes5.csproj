@@ -61,6 +61,48 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ventana3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventana3.Designer.cs">
+      <DependentUpon>ventana3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventana4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventana4.Designer.cs">
+      <DependentUpon>ventana4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventana5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventana5.Designer.cs">
+      <DependentUpon>ventana5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventana6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventana6.Designer.cs">
+      <DependentUpon>ventana6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventana7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventana7.Designer.cs">
+      <DependentUpon>ventana7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventana8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventana8.Designer.cs">
+      <DependentUpon>ventana8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventana9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventana9.Designer.cs">
+      <DependentUpon>ventana9.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
