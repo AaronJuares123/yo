@@ -68,6 +68,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ventana de ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventana de ventas.Designer.cs">
+      <DependentUpon>ventana de ventas.cs</DependentUpon>
+    </Compile>
     <Compile Include="ventana3.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -125,6 +131,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ventana de ventas.resx">
+      <DependentUpon>ventana de ventas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ventana3.resx">
       <DependentUpon>ventana3.cs</DependentUpon>
     </EmbeddedResource>
