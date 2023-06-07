@@ -111,9 +111,9 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(10, 12);
+            this.button2.Location = new System.Drawing.Point(252, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(117, 33);
+            this.button2.Size = new System.Drawing.Size(124, 25);
             this.button2.TabIndex = 7;
             this.button2.Text = "Crear Cuenta";
             this.button2.UseVisualStyleBackColor = true;
