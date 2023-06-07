@@ -206,7 +206,7 @@
             // 
             // textBox7
             // 
-            this.textBox7.Location = new System.Drawing.Point(351, 216);
+            this.textBox7.Location = new System.Drawing.Point(365, 216);
             this.textBox7.Multiline = true;
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(161, 96);
@@ -217,7 +217,7 @@
             this.label8.AutoSize = true;
             this.label8.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(373, 193);
+            this.label8.Location = new System.Drawing.Point(391, 193);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(103, 20);
             this.label8.TabIndex = 47;
