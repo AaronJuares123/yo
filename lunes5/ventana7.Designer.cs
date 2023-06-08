@@ -383,10 +383,10 @@
             // textBox6
             // 
             this.textBox6.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.textBox6.Location = new System.Drawing.Point(560, 46);
+            this.textBox6.Location = new System.Drawing.Point(547, 46);
             this.textBox6.Multiline = true;
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(160, 87);
+            this.textBox6.Size = new System.Drawing.Size(173, 87);
             this.textBox6.TabIndex = 10;
             // 
             // label7
@@ -398,6 +398,7 @@
             this.label7.Size = new System.Drawing.Size(121, 24);
             this.label7.TabIndex = 11;
             this.label7.Text = "Descripcion";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // button1
             // 
