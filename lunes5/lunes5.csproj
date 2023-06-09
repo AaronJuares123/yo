@@ -149,6 +149,9 @@
     <EmbeddedResource Include="ventana7.resx">
       <DependentUpon>ventana7.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ventana8.resx">
+      <DependentUpon>ventana8.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ventana9.resx">
       <DependentUpon>ventana9.cs</DependentUpon>
     </EmbeddedResource>
