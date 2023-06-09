@@ -111,7 +111,7 @@
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
             "Viernes  9  de  junio  de  2023"});
-            this.comboBox1.Location = new System.Drawing.Point(673, 29);
+            this.comboBox1.Location = new System.Drawing.Point(670, 29);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(172, 21);
             this.comboBox1.TabIndex = 6;
