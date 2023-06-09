@@ -319,7 +319,7 @@
             // 
             this.textBox5.BackColor = System.Drawing.SystemColors.InactiveCaptionText;
             this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox5.Location = new System.Drawing.Point(606, 60);
+            this.textBox5.Location = new System.Drawing.Point(610, 61);
             this.textBox5.Multiline = true;
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(110, 26);
